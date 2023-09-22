@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @NoobAuthor
-- 👀 I’m interested in Full-stack engineering
-- 🌱 I’m currently learning Go
+- 👋 Hi, I’m Igor Assis
+- 👀 I’m Full-stack engineer
+- 🌱 I’m currently learning Rust
