@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Igor Assis
-- 👀 I’m Full-stack engineer
-- 🌱 I’m currently learning Rust
+
