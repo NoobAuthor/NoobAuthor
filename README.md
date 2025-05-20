@@ -1,7 +1,7 @@
 <!-- Introduction Section -->
 # 👋 Hi, I’m **Igor Assis**
 **25-year-old Computer Science Engineering student** at the **University of Chile**, passionate about **Full-Stack Development** and transitioning into **App Development**.  
-🔗 Connect with me: [LinkedIn](https://linkedin.com/in/iassis25) :contentReference[oaicite:13]{index=13}  
+🔗 Connect with me: [LinkedIn](https://linkedin.com/in/iassis25) 
 
 ---
 
@@ -10,7 +10,6 @@
 <!-- GitHub Readme Stats cards dynamically generated -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoobAuthor)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoobAuthor&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobAuthor&layout=compact) :contentReference[oaicite:14]{index=14}  
 
 ---
 
@@ -27,5 +26,5 @@
 <!-- Footer -->
 ## 📫 Get in Touch
 - **Email:** igor17.assis@gmail.com  
-- **LinkedIn:** [linkedin.com/in/iassis25](https://linkedin.com/in/iassis25) :contentReference[oaicite:18]{index=18}  
+- **LinkedIn:** [linkedin.com/in/iassis25](https://linkedin.com/in/iassis25) 
 
