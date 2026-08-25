@@ -1,6 +1,6 @@
 <!-- Introduction Section -->
 # 👋 Hi, I’m **Igor Assis**
-**25-year-old Computer Science Engineering student** at the **University of Chile**, passionate about **Full-Stack Development** and transitioning into **App Development**.  
+**27-year-old Computer Science Engineering student** at the **University of Chile** and **Tech Consultant** at **Wift SpA**, passionate about **Full-Stack Development**.
 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/iassis25) 
 
 ---
